@@ -2,7 +2,8 @@
 ESP-ADF(https://github.com/espressif/esp-adf) のHTTP Stream pipelineを利用したラジコプレイヤーです。  
 ## 必要なもの  
 ESP-ADF v2.4  
-ESP-ADF対応ボードまたはM5StickC+SPK HAT(New!)  
+ESP-ADF対応ボード  
+M5Stackシリーズ対応版は分離しました(https://github.com/jitenshap/M5Radiko)  
   
 ## ビルド方法  
 ESP-IDF VS Code Extension(https://github.com/espressif/vscode-esp-idf-extension)  を使うと簡単です  
@@ -26,7 +27,3 @@ ESP-IDF VS Code Extension(https://github.com/espressif/vscode-esp-idf-extension)
 #### LyraTほか:  
 Playボタン:停止・再開  
 Modeボタン: 選局  
-  
-#### M5StickC:  
-Aボタン: 停止・再開  
-Bボタン: 選局
