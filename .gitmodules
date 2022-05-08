@@ -1,0 +1,3 @@
+[submodule "components/board_m5stack"]
+	path = components/board_m5stack
+	url = https://github.com/jitenshap/board_m5stack
